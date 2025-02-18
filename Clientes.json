@@ -1,0 +1,8 @@
+{
+    "id": 55,
+    "nombre": "gal",
+    "apellido": "bar",
+    "edad": 14,
+    "genero": "masculino",
+    "fecha_nacimiento": "2000-01-02"
+}

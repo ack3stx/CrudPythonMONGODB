@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "almendras",
+        "descripcion": "almendras con chocolate",
+        "precio": 100,
+        "cantidad": 12,
+        "marca": "hersheys"
+    },
+    {
+        "id": 2,
+        "nombre": "comidawaf",
+        "descripcion": "comida para perro",
+        "precio": 600,
+        "cantidad": 6,
+        "marca": "waf"
+    },
+    {
+        "id": 3,
+        "nombre": "chocolate",
+        "descripcion": "chocolate en barra",
+        "precio": 50,
+        "cantidad": 5,
+        "marca": "nestle"
+    },
+    {
+        "id": 4,
+        "nombre": "agua",
+        "descripcion": "aguan enbotellada",
+        "precio": 10.0,
+        "cantidad": 10,
+        "marca": "alpura"
+    },
+    {
+        "id": 2,
+        "nombre": "mazapan",
+        "descripcion": "mazapan de azucar",
+        "precio": 5.0,
+        "cantidad": 100,
+        "marca": "de la rosa"
+    },
+    {
+        "id": 8,
+        "nombre": "cafe",
+        "descripcion": "cafe soluble",
+        "precio": 15.0,
+        "cantidad": 5,
+        "marca": "nescafe"
+    },
+    {
+        "id": 9,
+        "nombre": "carne para asar",
+        "descripcion": "carne para comer",
+        "precio": 100.0,
+        "cantidad": 5,
+        "marca": "carneMx"
+    }
+]

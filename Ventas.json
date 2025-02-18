@@ -1,0 +1,234 @@
+[
+    {
+        "id": 1,
+        "fecha": "2021-10-01",
+        "cliente": {
+            "id": 1,
+            "nombre": "juan carlos",
+            "apellido": "barajas",
+            "edad": 30,
+            "genero": "M",
+            "fecha_nacimiento": "1991-01-01"
+        },
+        "productos": [
+            {
+                "id": 1,
+                "nombre": "almendras",
+                "descripcion": "almendras con chocolate",
+                "precio": 100,
+                "cantidad": 12,
+                "marca": "hersheys"
+            },
+            {
+                "id": 2,
+                "nombre": "comidawaf",
+                "descripcion": "comida para perro",
+                "precio": 600,
+                "cantidad": 6,
+                "marca": "waf"
+            },
+            {
+                "id": 3,
+                "nombre": "chocolate",
+                "descripcion": "chocolate en barra",
+                "precio": 50,
+                "cantidad": 5,
+                "marca": "nestle"
+            }
+        ],
+        "total": 20
+    },
+    {
+        "id": 2,
+        "fecha": "2021-10-02",
+        "cliente": {
+            "id": 2,
+            "nombre": "jose luis",
+            "apellido": "barajas",
+            "edad": 25,
+            "genero": "M",
+            "fecha_nacimiento": "1996-01-01"
+        },
+        "productos": [
+            {
+                "id": 1,
+                "nombre": "almendras",
+                "descripcion": "almendras con chocolate",
+                "precio": 100,
+                "cantidad": 12,
+                "marca": "hersheys"
+            },
+            {
+                "id": 2,
+                "nombre": "comidawaf",
+                "descripcion": "comida para perro",
+                "precio": 600,
+                "cantidad": 6,
+                "marca": "waf"
+            },
+            {
+                "id": 3,
+                "nombre": "chocolate",
+                "descripcion": "chocolate en barra",
+                "precio": 50,
+                "cantidad": 5,
+                "marca": "nestle"
+            }
+        ],
+        "total": 30
+    },
+    {
+        "id": 4,
+        "fecha": "2025-02-11",
+        "cliente": {
+            "id": 3,
+            "nombre": "gael",
+            "apellido": "barajas",
+            "edad": 22,
+            "genero": "masculino",
+            "fecha_nacimiento": "2000-01-22"
+        },
+        "productos": [
+            {
+                "id": 4,
+                "nombre": "cafe",
+                "descripcion": "cafe2",
+                "precio": 10.0,
+                "cantidad": 2,
+                "marca": "aurrera"
+            }
+        ],
+        "total": 100.0
+    },
+    {
+        "id": 5,
+        "fecha": "2025-04-22",
+        "cliente": {
+            "id": 4,
+            "nombre": "gael",
+            "apellido": "barajas",
+            "edad": 22,
+            "genero": "masculino",
+            "fecha_nacimiento": "2000-02-01"
+        },
+        "productos": [
+            {
+                "id": 5,
+                "nombre": "mazapan",
+                "descripcion": "de la rosa",
+                "precio": 10.0,
+                "cantidad": 1,
+                "marca": "aurrera"
+            },
+            {
+                "id": 6,
+                "nombre": "tejocote",
+                "descripcion": "nose",
+                "precio": 1.0,
+                "cantidad": 1,
+                "marca": "aurrera"
+            }
+        ],
+        "total": 100.0
+    },
+    {
+        "id": 6,
+        "fecha": "2025-02-11",
+        "cliente": {
+            "id": 4,
+            "nombre": "gael",
+            "apellido": "barajas",
+            "edad": 22,
+            "genero": "masculino",
+            "fecha_nacimiento": "2002-11-04"
+        },
+        "productos": [
+            {
+                "id": 1,
+                "nombre": "mazapan",
+                "descripcion": "delarosa",
+                "precio": 10.0,
+                "cantidad": 1,
+                "marca": "delarosa"
+            }
+        ],
+        "total": 100.0
+    },
+    {
+        "id": 8,
+        "fecha": "2025-01-11",
+        "cliente": {
+            "id": 5,
+            "nombre": "cliente",
+            "apellido": "noe",
+            "edad": 22,
+            "genero": "masculino",
+            "fecha_nacimiento": "2001-01-10"
+        },
+        "productos": [
+            {
+                "id": 2,
+                "nombre": "azucar",
+                "descripcion": "azucardeca\u00f1a",
+                "precio": 100.0,
+                "cantidad": 2,
+                "marca": "ca\u00f1amx"
+            },
+            {
+                "id": 4,
+                "nombre": "arroz",
+                "descripcion": "arroz de canada",
+                "precio": 50.0,
+                "cantidad": 1,
+                "marca": "arrozCa"
+            }
+        ],
+        "total": 900.0
+    },
+    {
+        "id": 10,
+        "fecha": "2025-11-01",
+        "cliente": {
+            "id": 11,
+            "nombre": "gael barajas",
+            "apellido": "vazquez",
+            "edad": 22,
+            "genero": "masculino",
+            "fecha_nacimiento": "2000-01-01"
+        },
+        "productos": [
+            {
+                "id": 12,
+                "nombre": "cafe",
+                "descripcion": "cafe soluble",
+                "precio": 100.0,
+                "cantidad": 18,
+                "marca": "nescafe"
+            }
+        ],
+        "total": 1800.0
+    },
+    {
+        "id": 12,
+        "fecha": "2025-02-02",
+        "cliente": {
+            "id": 15,
+            "nombre": "jose manuel",
+            "apellido": "barajas",
+            "edad": 22,
+            "genero": "masculino",
+            "fecha_nacimiento": "2000-01-01"
+        },
+        "productos": [
+            {
+                "id": 15,
+                "nombre": "nutela",
+                "descripcion": "crema de mani",
+                "precio": 30.0,
+                "cantidad": 10,
+                "marca": "chocolatesmx"
+            }
+        ],
+        "total": 500.0
+    }
+]
